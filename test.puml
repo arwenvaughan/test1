@@ -1,1 +1,7 @@
-QHN0YXJ0dW1sCgp0aXRsZSBFbXB0eSBEaWFncmFtIC0gdGVzdC5wdW1sCjpoZWxsbzsKOldvcmxkOwoKQGVuZHVtbA==
+@startuml
+
+title Empty Diagram - test.puml
+:hello;
+:World;
+
+@enduml
