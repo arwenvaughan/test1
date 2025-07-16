@@ -1,6 +1,6 @@
 @startuml
 
-title Empty Diagram - test.puml
+title Empty Diagram 1 - test.puml
 :hello;
 :World;
 
