@@ -1,0 +1,7 @@
+@startuml
+
+title Empty Diagram - hello.txt
+:hello;
+:World;
+
+@enduml
