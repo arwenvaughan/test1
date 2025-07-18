@@ -1,0 +1,7 @@
+@startuml
+
+title Empty Diagram - Test2.puml
+:hello;
+:World;
+
+@enduml
