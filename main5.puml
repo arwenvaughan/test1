@@ -1,0 +1,7 @@
+@startuml
+
+title Empty Diagram - main5.puml
+:hello;
+:World;
+
+@enduml
