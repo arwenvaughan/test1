@@ -1,6 +1,6 @@
 @startuml
 
-title Empty Diagram - beans.txt
+title Empty Diagram 2 - beans.txt
 :hello;
 :World;
 
