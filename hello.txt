@@ -1,6 +1,6 @@
 @startuml
 
-title Empty Diagram 7 - hello.txt
+title Empty Diagram 8 - hello.txt
 :hello;
 :World;
 
