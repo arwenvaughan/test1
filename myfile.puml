@@ -1,0 +1,7 @@
+@startuml
+
+title Empty Diagram - myfile.puml
+:hello;
+:World;
+
+@enduml
